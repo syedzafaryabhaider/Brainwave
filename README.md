@@ -4,7 +4,7 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+3. 🔋  [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Link](#link)
 
@@ -71,4 +71,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="link">🔗 Link</a>
 
-- [Live Website]()
+- [Live Website](https://brainwave-ebon-three.vercel.app/)
